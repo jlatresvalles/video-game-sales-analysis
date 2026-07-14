@@ -18,7 +18,8 @@ SQL exploratory data analysis on a dataset of 16,000+ video games, uncovering in
 - **MySQL** — querying and analysis
 - **MySQL Workbench** — data import and execution
 - **PopSQL** — query editor
-- **Tableau** — data visualization *(coming soon)*
+- **Tableau** — data visualization
+- **Excel** - pivot tables, charts, XLOOKUPS, and SUMIFS
 
 ---
 
@@ -59,6 +60,19 @@ SQL exploratory data analysis on a dataset of 16,000+ video games, uncovering in
 | Window functions (`SUM() OVER`) | Cumulative sales trend |
 
 ---
+
+## Excel Rebuild
+Rebuilt the analysis in Excel: pivot tables, XLOOKUP lookup panel, and SUMIFS regional breakdowns.
+
+**Global Sales by Genre Pivot Table + Chart**
+<img width="2503" height="1050" alt="image" src="https://github.com/user-attachments/assets/8185ef8e-ace1-4df5-acf5-552190461c72" />
+
+**Top 10 Platforms Pivot Table + Chart**
+<img width="2459" height="1041" alt="image" src="https://github.com/user-attachments/assets/2d875599-5e6d-4f1a-813b-47dda3c5e6d7" />
+
+**XLOOKUP / SUMIFS Summary Sheet**
+<img width="953" height="594" alt="image" src="https://github.com/user-attachments/assets/dec53a7d-59bd-4d3a-8a77-d8565ed23aef" />
+
 
 ## Files
 
