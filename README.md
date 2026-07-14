@@ -19,7 +19,7 @@ SQL exploratory data analysis on a dataset of 16,000+ video games, uncovering in
 - **MySQL Workbench** — data import and execution
 - **PopSQL** — query editor
 - **Tableau** — data visualization
-- **Excel** - pivot tables, charts, XLOOKUPS, and SUMIFS
+- **Excel** — pivot tables, charts, XLOOKUPS, and SUMIFS
 
 ---
 
